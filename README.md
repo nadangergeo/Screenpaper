@@ -1,7 +1,7 @@
 Screenpaper
 ===========
 
-Simple OS X app for enabing screensaver as wallpaper.
+Simple OS X app for enabing/disabling screensaver as wallpaper.
 
 ![My image](http://gergeo.se/screenshots/screenpaper.png)
 
