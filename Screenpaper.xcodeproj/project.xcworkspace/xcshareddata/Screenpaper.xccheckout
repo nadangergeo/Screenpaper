@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E00B061-97C4-4F36-B525-37EBDA7739A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Screenpaper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0C8EE39FD4179BE76D7CC61C54A994428125719</key>
+		<string>https://github.com/nadangergeo/Screenpaper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Screenpaper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0C8EE39FD4179BE76D7CC61C54A994428125719</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nadangergeo/Screenpaper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0C8EE39FD4179BE76D7CC61C54A994428125719</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0C8EE39FD4179BE76D7CC61C54A994428125719</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Screenpaper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
